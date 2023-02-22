@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+<title>"Moja galeria zdjęć"</title>
+<meta name="description" content="/>
+<meta name="keywords" content="" />
+
+</head>
+<body>
+<img src="file:///C:/Users/ADMIN/Downloads/kurs_html2/www/zdj1.png" />
+</body>
+</html>
+	
+
