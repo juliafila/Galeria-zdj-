@@ -1,1 +1,1 @@
-# Galeria-zdj-
+# Galeria-zdjęć
